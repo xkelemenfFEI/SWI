@@ -1,2 +1,4 @@
 Toto je prvý riadok
 Dalsi riadok
+Treti riadok
+Stvrty riadok
